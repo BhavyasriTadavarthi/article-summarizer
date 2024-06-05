@@ -7,8 +7,6 @@ nltk
 pyttsx3
 beautifulsoup4
 requests
-runpy
-sqlite3
 pandas
 youtube_transcript_api
 transformers
